@@ -1,4 +1,4 @@
-<h1>Machine Learning Project with Linear Regression</h1>
+<h1>Deep Learning with Neural Network</h1>
 
 <h2>Summary</h2>
 
